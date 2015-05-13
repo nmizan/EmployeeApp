@@ -1,0 +1,9 @@
+G:\asp.net\Apps\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
+G:\asp.net\Apps\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
+G:\asp.net\Apps\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
+G:\asp.net\Apps\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.Properties.Resources.resources
+G:\asp.net\Apps\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.GenerateResource.Cache
+G:\asp.net\Apps\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
+G:\asp.net\Apps\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb
+G:\asp.net\Apps\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.EmployeeUI.resources
+G:\asp.net\Apps\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csprojResolveAssemblyReference.cache
